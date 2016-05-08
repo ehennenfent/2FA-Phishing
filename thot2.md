@@ -19,7 +19,7 @@ Eric Hennenfent(@Eric_Hennenfent)
 2FA: The Anti-Basics
 ---------------
 
-<img src="http://picpaste.com/pics/Screen_Shot_2016-05-05_at_12.00.46_PM-eaJjOfeI.1462470363.png" width=50% height=auto>
+<img src="https://raw.githubusercontent.com/ehennenfent/2FA-Phishing/gh-pages/2fa.png" width=50% height=auto>
 
 ---
 
